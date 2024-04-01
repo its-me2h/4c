@@ -1,0 +1,169 @@
+{
+    "hero" : {
+        "title": "Sell Anywhere",
+        "subTitle": "Trust us to handle the logistics while you focus on marketing|and scaling, and growing your ecommerce business.",
+        "image": "",
+        "cta": "START IN THE MIDDLE EAST AND AFRICA",
+        "icon": "fa-sharp fa-regular fa-arrow-right"
+    },
+    "about" : {
+        "title": "Who We Are",
+        "subTitle": "From sourcing to shipping We cover it all and provide access|to new markets in the Middle East, Africa, and beyond.",
+        "image": "",
+        "icon": "fa-sharp fa-solid fa-play"
+    },
+    "service" : [
+        {
+            "id": "sourcing",
+            "title": "Profit|Boosting|Start With|Sourcing|Done Smart",
+            "subTitle": "Learning a language is an incredibly valuable skill that can open up a new world of opportunity. From travel to job prospects, being able to communicate in a foreign language can open up opportunities you never imagined. Whether you want to travel the world, find a job abroad or even use it in your daily life, learning a language can be an incredibly rewarding experience",
+            "cta": "learn more",
+            "aImage": "https://i.postimg.cc/fRrzGVRX/tammyroberts43621-entrepreneur-writing-at-the-port-Professional-d8ad1ad9-c7a0-4e6c-a225-bdc1977d6405.png",
+            "bImage": "https://i.postimg.cc/zGBD2C88/tammyroberts43621-buisness-mans-at-the-port-with-containers-Hyp-3321379b-dbc3-492b-bb62-2449ba39fbd5.png",
+            "aMsg" : [
+                {
+                    "msg": "We've been looking for suppliers for weeks"
+                },
+                {
+                    "msg": "But none match our quality standards"
+                },
+                {
+                    "msg": "That's great"
+                },
+                {
+                    "msg": "We will save a lot of time and cash"
+                }
+            ],
+            "bMsg" : [
+                {
+                    "msg": "Have you heard of COD NETWORK?"
+                },
+                {
+                    "msg": "They specialize in e-commerce logistics and sourcing"
+                },
+                {
+                    "msg": "With a wide network of trusted suppliers"
+                },
+                {
+                    "msg": "That offer competitive pricing"
+                }
+            ]
+        },
+        {
+            "hdl": "warehouse",
+            "title": "From|Large To|Small We|Have Space|For Them All",
+            "subTitle": "What we learn shapes the way we think and the way we interpret the world around us. It influences our actions and our decisions, and ultimately shapes who we become. We become more knowledgeable, more informed, and more confident as we learn more about ourselves and the world. Our experiences teach us how to interact with others, and how to build relationships. We can use our learning to better understand the world, and to make positive impacts on our lives and the lives of those around us", 
+            "cta": "learn more",
+            "aImage": "https://as1.ftcdn.net/v2/jpg/05/80/16/58/1000_F_580165846_UzhS4qbEQz7rO3PS3srXHAuuDUWzy6JL.jpg",
+            "bImage": "https://as1.ftcdn.net/v2/jpg/02/65/81/56/1000_F_265815619_EN8VQnqYZHlKfxAjpuedyxua8m2ExIK1.jpg",
+            "aMsg" : [
+                {
+                    "msg": "222222 22222"
+                },
+                {
+                    "msg": "222222 22222"
+                },
+                {
+                    "msg": "222222 22222"
+                },
+                {
+                    "msg": "222222 22222"
+                }
+            ],
+            "bMsg" : [
+                {
+                    "msg": "Congratulations on the job offer"
+                },
+                {
+                    "msg": "I have the perfect solution for you"
+                },
+                {
+                    "msg": "Have you considered asking Ziri for help?"
+                },
+                {
+                    "msg": "They have the best language teachers"
+                }
+            ]
+        },
+        {
+            "hdl": "CallCenter",
+            "title": "Your|Voice At|Market Our|Call Center|Experts",
+            "subTitle": "Boosting your grades can be achieved no matter what level you are currently at. Even if you feel like you are struggling or behind in your coursework, there are ways to improve. Setting achievable goals, studying effectively, and taking advantage of available resources can all help to boost your grades Setting realistic and achievable goals is key to boosting your grades. Establish a timeline for yourself and break the tasks into manageable chunks. This will help you stay focused and motivated", 
+            "cta": "learn more",
+            "aImage": "https://as1.ftcdn.net/v2/jpg/04/95/45/76/1000_F_495457668_343WunrnVNOaAiQuUVqLn1T5C3k0sTQo.jpg",
+            "bImage": "https://as1.ftcdn.net/v2/jpg/05/96/59/02/1000_F_596590209_hBwX55eRc8gT0ozz4c5nt0KRwJHe1Tno.jpg",
+            "aMsg" : [
+                {
+                    "msg": "Hey"
+                },
+                {
+                    "msg": "I recently received a job offer in Germany"
+                },
+                {
+                    "msg": "-fImg- The only issue is that I don't speak German"
+                },
+                {
+                    "msg": "i need to focus on learning it"
+                }
+            ],
+            "bMsg" : [
+                {
+                    "msg": "Congratulations on the job offer"
+                },
+                {
+                    "msg": "I have the perfect solution for you"
+                },
+                {
+                    "msg": "Have you considered asking Ziri for help?"
+                },
+                {
+                    "msg": "They have the best language teachers"
+                }
+            ]
+        },
+        {
+            "hdl": "shipping",
+            "title": "Delivered|Order On|Time Happy|Client|We Prime",
+            "subTitle": "Learning a language is an incredibly valuable skill that can open up a new world of opportunity. From travel to job prospects, being able to communicate in a foreign language can open up opportunities you never imagined. Whether you want to travel the world, find a job abroad or even use it in your daily life, learning a language can be an incredibly rewarding experience", 
+            "cta": "learn more",
+            "aImage": "https://as2.ftcdn.net/v2/jpg/04/36/87/61/1000_F_436876159_DVOIohGdIMGC9MJskFcg5PaWeK2Ema7p.jpg",
+            "bImage": "https://as2.ftcdn.net/v2/jpg/04/57/51/53/1000_F_457515373_OqGwPtfjL3CqODWPbaaBlHlp6E9rICLA.jpg",
+            "aMsg" : [
+                {
+                    "msg": "Hey"
+                },
+                {
+                    "msg": "I recently received a job offer in Germany"
+                },
+                {
+                    "msg": "-fImg- The only issue is that I don't speak German"
+                },
+                {
+                    "msg": "i need to focus on learning it"
+                }
+            ],
+            "bMsg" : [
+                {
+                    "msg": "Congratulations on the job offer"
+                },
+                {
+                    "msg": "I have the perfect solution for you"
+                },
+                {
+                    "msg": "Have you considered asking Ziri for help?"
+                },
+                {
+                    "msg": "They have the best language teachers"
+                }
+            ]
+        }
+    ],
+    "location" : {
+        "title": "location title",
+        "subTitle": "From sourcing to shipping We cover it all and provide|access to new markets in the Middle East, Africa, and beyond.",
+        "image": "https://i.postimg.cc/mZw7CSVG/world-map-isolated-on-white-background-flat-earth-map-world-map-illustrations-globe-similar-world-ma.jpg",
+        "icon": "fa-sharp fa-solid fa-play"
+    }
+}
+
+

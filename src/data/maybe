@@ -1,0 +1,115 @@
+// const [dService1, setDService1] = React.useState(true)
+// const [dService2, setDService2] = React.useState(true)
+// const [dService3, setDService3] = React.useState(true)
+// const [dService4, setDService4] = React.useState(true)
+
+
+
+// <div className='s-elm c column-center'>
+//     <div className='column-center'>
+
+//         <div className='title'>
+
+//             {/* first-line */}
+            
+//             {(dHero || dAbout || dServices) && <div>
+//                 <div>first-line</div>
+//                 {dHero && <div className='hero-title'>{data.hero.title}</div>}
+//                 {dAbout && <div className='about-title'>{data.about.title}</div>}
+//                 {(dServices && dService1) && <div className='services-title service-1'>{data.service[0].title.split('|')[0]}</div>}
+//                 {(dServices && dService2) && <div className='services-title service-2'>{data.service[1].title.split('|')[0]}</div>}
+//                 {(dServices && dService3) && <div className='services-title service-3'>{data.service[2].title.split('|')[0]}</div>}
+//                 {(dServices && dService4) && <div className='services-title service-4'>{data.service[3].title.split('|')[0]}</div>}
+//             </div>}
+
+//             {/* second-line */}
+
+//             {dServices && <div>
+//                 <div>second-line</div>
+//                 {(dServices && dService1) && <div className='services-title service-1'>{data.service[0].title.split('|')[1]}</div>}
+//                 {(dServices && dService2) && <div className='services-title service-2'>{data.service[1].title.split('|')[1]}</div>}
+//                 {(dServices && dService3) && <div className='services-title service-3'>{data.service[2].title.split('|')[1]}</div>}
+//                 {(dServices && dService4) && <div className='services-title service-4'>{data.service[3].title.split('|')[1]}</div>}
+//             </div>}
+
+//             {/* third-line */}
+
+//             {dServices && <div>
+//                 <div>third-line</div>
+//                 {(dServices && dService1) && <div className='services-title service-1'>{data.service[0].title.split('|')[2]}</div>}
+//                 {(dServices && dService2) && <div className='services-title service-2'>{data.service[1].title.split('|')[2]}</div>}
+//                 {(dServices && dService3) && <div className='services-title service-3'>{data.service[2].title.split('|')[2]}</div>}
+//                 {(dServices && dService4) && <div className='services-title service-4'>{data.service[3].title.split('|')[2]}</div>}
+//             </div>}
+
+//             {/* fourth-line */}
+
+//             {dServices && <div>
+//                 <div>fourth-line</div>
+//                 {(dServices && dService1) && <div className='services-title service-1'>{data.service[0].title.split('|')[3]}</div>}
+//                 {(dServices && dService2) && <div className='services-title service-2'>{data.service[1].title.split('|')[3]}</div>}
+//                 {(dServices && dService3) && <div className='services-title service-3'>{data.service[2].title.split('|')[3]}</div>}
+//                 {(dServices && dService4) && <div className='services-title service-4'>{data.service[3].title.split('|')[3]}</div>}
+//             </div>}
+
+
+//             {/* fifth-line */}
+//             {dServices && <div>
+//                 <div>fifth-line</div>
+//                 {(dServices && dService1) && <div className='services-title service-1'>{data.service[0].title.split('|')[4]}</div>}
+//                 {(dServices && dService2) && <div className='services-title service-2'>{data.service[1].title.split('|')[4]}</div>}
+//                 {(dServices && dService3) && <div className='services-title service-3'>{data.service[2].title.split('|')[4]}</div>}
+//                 {(dServices && dService4) && <div className='services-title service-4'>{data.service[3].title.split('|')[4]}</div>}
+//             </div>}
+
+
+
+//         </div>
+
+
+
+//         <div className='sub-title'>
+
+//             {/* first-line */}
+            
+//             {(dHero || dAbout || dServices) && <div>
+//                 <div>first-line</div>
+//                 {dHero && <div className='hero-title'>{data.hero.subTitle.split('|')[0]}</div>}
+//                 {dAbout && <div className='about-title'>{data.about.subTitle.split('|')[0]}</div>}
+//                 {dServices && <div className='services-title service-1'>{data.about.subTitle.split('|')[0]}</div>}
+//             </div>}
+
+//             {/* second-line */}
+
+//             {(dHero || dAbout || dServices) && <div>
+//                 <div>second-line</div>
+//                 {dHero && <div className='hero-title'>{data.hero.subTitle.split('|')[1]}</div>}
+//                 {dAbout && <div className='about-title'>{data.about.subTitle.split('|')[1]}</div>}
+//                 {dServices && <div className='services-title service-1'>{data.about.subTitle.split('|')[0]}</div>}
+//             </div>}
+
+//             {/* third-line */}
+
+//             {dServices && <div>
+//                 <div>third-line</div>
+//                 {dServices && <div className='services-title service-1'>{data.about.subTitle.split('|')[0]}</div>}
+//             </div>}
+
+//             {/* fourth-line */}
+
+//             {dServices && <div>
+//                 <div>fourth-line</div>
+//                 {dServices && <div className='services-title service-1'>{data.about.subTitle.split('|')[0]}</div>}
+//             </div>}
+
+//             {/* fifth-line */}
+//             {dServices && <div>
+//                 <div>fifth-line</div>
+//                 {dServices && <div className='services-title service-1'>{data.about.subTitle.split('|')[0]}</div>}
+//             </div>}
+
+
+//         </div>
+
+//     </div>
+// </div>
